@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://scontent.fmnl4-1.fna.fbcdn.net/v/t39.30808-6/304592067_884108812553359_6079732637529467499_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeE8n1onzyT4RcjmvIYPOTyBhwok7pxFsgaHCiTunEWyBsjECts1sNk41gxdJqHdDxl8DlDlGEnfjZrFzLD2xVPe&_nc_ohc=JWnMp1qd3nIAX_o8jv5&_nc_ht=scontent.fmnl4-1.fna&oh=00_AfBax7EAF-OMfaymm8fTSTU9FVg9wEFOyg3fc5zzJwi7xw&oe=657E5AB7"
+              src="/images/nelz.jpg"
               alt="nelson"
               width="192"
               height="192"
