@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="../public/nelz.jpg"
+              src="./public/nelz.jpg"
               alt="nelson"
               width="192"
               height="192"
