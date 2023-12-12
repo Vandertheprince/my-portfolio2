@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://drive.google.com/file/d/1zsKcxfvGaY3CxWpjShNbiAiKh5ZjqFd3/view?usp=sharing"
+              src="../public/nelson.jpg"
               alt="nelson"
               width="192"
               height="192"
