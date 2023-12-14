@@ -26,7 +26,7 @@ export default function About() {
         <span className="font-medium">
           Linux, Apache, MySQL, and PHP, or LAMP for short.
         </span>
-        . I am also familiar with JavaScript and API's. I am always looking to
+        I am also familiar with JavaScript and API's. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a Sys. Dev. or anything IT Related.
       </p>
@@ -36,7 +36,7 @@ export default function About() {
         video games, watching movies, and hanging out with my girlfriend. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-medium">React.js as well as OOP PHP. Also I am taking the Coursera's Google IT Support Professional Certificate.</span>.
+        <span className="font-medium">React.js as well as OOP PHP. Also I am taking the Coursera's Google IT Support Professional Certificate.</span>
       </p>
     </motion.section>
   );
