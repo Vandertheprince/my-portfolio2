@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "Iloilo National High School - SHS",
     location: "Iloilo City, Iloilo",
     description:
-      "I graduated as a Senior High, and took 3 entrance exams for WVSU, University of Cebu, and ISAT-U . I ultimately chose the latter.",
+      "I graduated as a Senior High, and passed 3 entrance exams for WVSU, University of Cebu, and ISAT-U . I ultimately chose the latter.",
     icon: React.createElement(LuGraduationCap),
     date: "2018",
   },
