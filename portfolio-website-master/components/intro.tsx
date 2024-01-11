@@ -90,7 +90,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="https://drive.google.com/file/d/11G7F-6jKKTQRxjK-Hqmp8rcBIWWIwtPJ/view?usp=sharing"
+          href="https://drive.google.com/file/d/1d0hCl9q__WpSvM5BBBvlorGJXbrJ7433/view?usp=sharing"
           download
         >
           Download CV{" "}
